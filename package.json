@@ -1,0 +1,15 @@
+{
+  "name": "grunt-npm-install",
+  "version": "1.0.0",
+  "description": "Simply runs `npm install`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Varache <perso@paulvarache.ninja>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:paulvarache/grunt-npm-inst.git"
+  }
+  "license": "ISC"
+}
