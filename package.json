@@ -1,5 +1,5 @@
 {
-  "name": "grunt-npm-install",
+  "name": "grunt-npm-inst",
   "version": "1.0.0",
   "description": "Simply runs `npm install`",
   "main": "index.js",
